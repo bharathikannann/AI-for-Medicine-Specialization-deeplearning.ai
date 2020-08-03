@@ -36,16 +36,16 @@ This repository contains my assignment solutions to the AI for Medicine Speciali
 - **Week 2**
   - Ungraded Lab
     - [Missing Values, Decesion Tree Classifier, Mask, Imputation](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%202/Ungraded%20Lab/Missing%20Values%2C%20Decesion%20Tree%20Classifier%2C%20Mask%2C%20Imputation.pdf)
-  - [Risk Models Using Tree-based Models](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%202/Risk%20Models%20Using%20Tree-based%20Models.ipynb) | [Pfd Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%202/Risk%20Models%20Using%20Tree-based%20Models.pdf)
+  - [**Risk Models Using Tree-based Models**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%202/Risk%20Models%20Using%20Tree-based%20Models.ipynb) | [Pfd Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%202/Risk%20Models%20Using%20Tree-based%20Models.pdf)
   
 - **Week 3**
   - Ungraded Lab
     - [Count Patients, Kaplan-Meier](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%203/Ungraded%20Lab/Count%20Patients%20Kaplan-Meier.pdf)
-  - [Survival Estimates that Vary with Time](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%203/Survival%20Estimates%20that%20Vary%20with%20Time.ipynb) | [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%203/Survival%20Estimates%20that%20Vary%20with%20Time.pdf)
+  - [**Survival Estimates that Vary with Time**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%203/Survival%20Estimates%20that%20Vary%20with%20Time.ipynb) | [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%203/Survival%20Estimates%20that%20Vary%20with%20Time.pdf)
 
 - **Week 4**
   - Ungraded Lab
     - [One-hot encode, Categorical variables, Hazard function, Permissible pairs with censoring and time](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%204/Ungraded%20Lab/One-hot%20encode%20categorical%20variables%20Hazard%20function%20Permissible%20pairs%20with%20censoring%20and%20time.pdf)
-  - [Cox Proportional Hazards and Random Survival Forests](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%204/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb) | [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%204/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.pdf)
+  - [**Cox Proportional Hazards and Random Survival Forests**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%204/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb) | [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%204/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.pdf)
   
   

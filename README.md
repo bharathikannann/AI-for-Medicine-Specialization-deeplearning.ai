@@ -12,10 +12,12 @@ This repository contains my assignment solutions to the AI for Medicine Speciali
     - [Patient Overlap - practice](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/Lab%20Exercise/Patient%20Overlap%20-%20practice.pdf)
     
   - [**Chest X-Ray Medical Diagnosis with Deep Learning**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1M1_Assignment.ipynb)
-  
+    - [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Week%201/C1M1_Assignment.pdf)
+    
 - **Week 2**
 
   - [**Evaluation of Diagnostic Models**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Week%202/C1M2_Assignment.ipynb)
+    - [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Week%202/C1M2_Assignment%20pdf.pdf)
   
 - **Week 3**
 
@@ -25,3 +27,4 @@ This repository contains my assignment solutions to the AI for Medicine Speciali
     - [Implement U-Net](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/Lab%20Exercise/Implement%20U-Net.pdf)
     
   - [**Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1M3_Assignment.py)
+  - [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1M3_Assignment.pdf)

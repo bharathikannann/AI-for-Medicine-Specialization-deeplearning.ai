@@ -45,4 +45,23 @@ This repository contains my assignment solutions to the AI for Medicine Speciali
     - [One-hot encode, Categorical variables, Hazard function, Permissible pairs with censoring and time](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%204/Ungraded%20Lab/One-hot%20encode%20categorical%20variables%20Hazard%20function%20Permissible%20pairs%20with%20censoring%20and%20time.pdf)
   - [**Cox Proportional Hazards and Random Survival Forests**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%204/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb) | [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Prognosis/Week%204/Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.pdf)
   
+## `AI for Medical Treatment`
+- **Week 1**
+  - Ungraded Lab
+    - [Logistic Regression Model Interpretation](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%201/Ungraded%20Lab/Logistic%20Regression%20Model%20Interpretation.pdf)
+    - [Model TrainingTuning Basics with Sklearn](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%201/Ungraded%20Lab/Model%20TrainingTuning%20Basics%20with%20Sklearn.pdf)
+    - [Pandas for a Medical Dataset](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%201/Ungraded%20Lab/Pandas%20for%20a%20Medical%20Dataset.pdf)  
+  - [**Estimating Treatment Effect Using Machine Learning**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%201/Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.ipynb) | [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%201/Estimating%20Treatment%20Effect%20Using%20Machine%20Learning.pdf)
+    
+- **Week 2**
+    - [Cleaning Text](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%202/Ungraded%20Lab/Cleaning%20Text.pdf)
+    - [Preparing Input for Text Classification](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%202/Ungraded%20Lab/Preparing%20Input%20for%20Text%20Classification.pdf)
+    - [Using BioC format and the NegBio Library](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%202/Ungraded%20Lab/Using%20BioC%20format%20and%20the%20NegBio%20Library.pdf)    
+  - [**Natural Language Entity Extraction**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%202/Natural%20Language%20Entity%20Extraction.ipynb) | [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%202/Natural%20Language%20Entity%20Extraction.pdf)
   
+- **Week 3**
+  - Ungraded Lab
+    - [Permutation Method](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%203/Ungraded%20Lab/Permutation%20Method.pdf)
+    - [Introduction To GradCAM (Part 1)](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%203/Ungraded%20Lab/Introduction%20To%20GradCAM%20(Part%201).pdf)
+    - [GradCAM Continuation (Part 2)](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%203/Ungraded%20Lab/GradCAM%20Continuation%20(Part%202).pdf)    
+  - [****]() | [Pdf Version]()

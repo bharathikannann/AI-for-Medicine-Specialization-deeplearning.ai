@@ -1,4 +1,5 @@
 # `AI for Medicine Specialization`
+
 This repository contains my assignment solutions to the AI for Medicine Specialization course from coursera. This repo is for my personal reference.
 Try to do the assignments by your own.
 Use these as a reference material if you are stuck in the assignments.
@@ -67,3 +68,5 @@ Use these as a reference material if you are stuck in the assignments.
     - [Introduction To GradCAM (Part 1)](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%203/Ungraded%20Lab/Introduction%20To%20GradCAM%20(Part%201).pdf)
     - [GradCAM Continuation (Part 2)](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%203/Ungraded%20Lab/GradCAM%20Continuation%20(Part%202).pdf)    
   - [**Model Interpretation Methods**](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%203/Model%20Interpretation%20Methods.ipynb) | [Pdf Version](https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/AI%20for%20Medical%20Treatment/Week%203/Model%20Interpretation%20Methods.pdf)
+### `Certificate`<br>
+> <img src="https://github.com/bharathikannan1311/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Certificate/Certificate.jpg" width=400px height=300px>

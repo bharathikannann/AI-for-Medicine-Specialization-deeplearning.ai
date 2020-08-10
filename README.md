@@ -1,5 +1,6 @@
 # `AI for Medicine Specialization`
-This repository contains my assignment solutions to the AI for Medicine Specialization course from coursera.
+This repository contains my assignment solutions to the AI for Medicine Specialization course from coursera for my personal reference.
+Try to do the assignments by your own.
 Use these as a reference material if you are stuck in the assignments.
 - Course link - https://www.coursera.org/specializations/ai-for-medicine
 
